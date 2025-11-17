@@ -1,10 +1,3 @@
-# Cryptocurrency-Investment-Analysis
-
-Below I have written a complete, professional, clean, and ready-to-publish **README.md** for the entire project—including calculating financial metrics, categorizing currencies, and analyzing the investment portfolio with portfolio simulation—on GitHub.
-Formatted + Structured + Copyable.
-
----
-
 # 📊 Crypto Risk & Return Analysis
 
 ### Risk & Return Analysis of Top 20 Cryptocurrencies Using Financial Metrics and Portfolio Modeling
