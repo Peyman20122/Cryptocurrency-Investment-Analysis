@@ -180,11 +180,3 @@ By combining standard financial metrics + portfolio analysis + historical behavi
 
 This project shows in a practical way how to design a **scientific and data-driven** cryptocurrency portfolio.
 
----
-
-If you want:
-✔ I will write an English version
-✔ I can also add **Installation**, **Usage**, or **Sample Plots** sections for GitHub
-✔ I will even create a project logo or badge
-
-Just tell me ❤️
